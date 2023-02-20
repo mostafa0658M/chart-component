@@ -65,6 +65,9 @@ body {
   align-items: flex-end;
   justify-content: space-between;
 }
+.lastmonth {
+  text-align: end;
+}
 .month-title {
   color: hsl(28, 10%, 53%);
   font-size: 16px;
